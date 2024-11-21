@@ -18,7 +18,12 @@ I enjoy the process of taking a concept and turning it into a working website th
 📈 GitHub Stats
 
 <hr>
-🤝 Connect with Me <br>
+<h4>🌟 Creative & E-commerce Skills</h4>
+Along with programming, I have a strong background in graphic design and e-commerce. I enjoy creating eye-catching designs like logos, banners, and branding materials using tools like Adobe Photoshop and Canva.<br
+
+I’m also skilled in Amazon e-commerce, with experience in product research, listing optimization, and managing online stores to help businesses succeed.<br><hr>
+
+<h4>🤝 Connect with Me </h4>
 📩 Email: mairajhaider.contact@gmail.com <br><hr>
 
 “Keep pushing boundaries and code your dreams into reality.”

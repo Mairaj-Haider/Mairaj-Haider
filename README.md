@@ -4,13 +4,13 @@
 I enjoy the process of taking a concept and turning it into a working website that is also appealing. Coding to me is like solving a fun puzzle, and I enjoy learning new ways to make my work even better.
 <h3>🌟 About Me </h3>
 🎓 Completed 12th class (FBISE) <br>
-🌱 Currently learning CSS and focusing on web development<br>
-💻 Aiming to become a full-fledged web developer in 3 months <br>
+🌱 Currently learning CSS and focusing on front end development<br>
+💻 Aiming to become a full-stack web developer <br>
 <h4>🛠️ Skills & Tools</h4>
 <ul>
   <li>Programming Languages</li> 
 <ul>
-  <li>HTML | C++</li>
+  <li>C++ | HTML</li>
   <li>CSS (In Progress)</li>
 </ul>
 </ul>

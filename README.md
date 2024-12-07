@@ -4,14 +4,14 @@
 I enjoy the process of taking a concept and turning it into a working website that is also appealing. Coding to me is like solving a fun puzzle, and I enjoy learning new ways to make my work even better.
 <h3>🌟 About Me </h3>
 🎓 Completed 12th class (FBISE) <br>
-🌱 Currently learning JavaScript and focusing on front end development<br>
+🌱 Currently mastering JavaScript and focusing on front end development<br>
 💻 Aiming to become a full-stack web developer <br>
 <h4>🛠️ Skills & Tools</h4>
 <ul>
   <li>Programming Languages</li> 
 <ul>
   <li>C++ | HTML | CSS</li>
-  <li>JavaScript (Mastering)</li>
+  <li>JavaScript (In progress)</li>
 </ul>
 </ul>
 <br>
